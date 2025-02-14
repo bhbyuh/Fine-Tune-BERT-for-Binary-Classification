@@ -40,9 +40,3 @@ pip install transformers torch datasets
 - The model's performance is evaluated using metrics like accuracy, precision, recall, and F1-score.
 - Plots and confusion matrices may be included for better visualization.
 
-## Contributions
-Feel free to fork this repository, submit pull requests, or report issues.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-

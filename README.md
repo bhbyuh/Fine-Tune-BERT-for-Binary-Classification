@@ -9,24 +9,6 @@ This project utilizes **BERT (Bidirectional Encoder Representations from Transfo
 - **Fine-tuning:** Custom training on a dataset.
 - **Inference:** Making predictions on text inputs.
 
-## Installation
-To set up the environment, install the required dependencies:
-```bash
-pip install transformers torch datasets
-```
-
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
-   ```
-2. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook bert.ipynb
-   ```
-3. Run the notebook cells step by step.
-
 ## Dataset
 - The dataset used for training/testing is either loaded from an external source or included in the repository.
 - Ensure the dataset is in the correct format before running the notebook.
